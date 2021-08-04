@@ -1,3 +1,5 @@
 Accept - Refuse
 Accurate-Inaccurate
 Advantage-Disadvantage
+understood-misunderstood
+light-dark
